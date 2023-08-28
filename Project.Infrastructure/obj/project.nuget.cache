@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "O6pE8j/v9hGEQjbJXFEdqSNGA0ALwImkzlHJ5Tdo1yCOlO3euRmnM6SsYHnimdaJb75dzuhODKfB3+mthF+g2Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SamilKardas\\Documents\\GitHub\\FilmLibrary\\Project.Infrastructure\\Project.Infrastructure.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://192.168.1.107:5555/v3/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
